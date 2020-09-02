@@ -1,0 +1,161 @@
+[epiz_25193214] [2020-02-12 08:26:18] [software] Software Details : array (
+  'name' => 'CodeIgniter',
+  'softname' => 'igniter',
+  'desc' => 'CodeIgniter is a powerful PHP framework with a very small footprint',
+  'ins' => 1,
+  'cat' => 'frameworks',
+  'type' => 'php',
+  'ver' => '3.1.11',
+  'pre_down' => 1,
+  'path' => '/var/softaculous/igniter',
+  'has_theme' => 0,
+  'update_plugins' => 0,
+  'update_themes' => 0,
+  'verify_dom' => 0,
+  'spacereq' => '12029560',
+  'branch' => 
+  array (
+    123 => 
+    array (
+      'min' => '',
+      'ver' => '3.1.11',
+    ),
+  ),
+  'adminurl' => false,
+)
+
+[epiz_25193214] [2020-02-12 08:26:18] [software] Software Settings : array (
+  'Database Settings' => 
+  array (
+    'dbprefix' => 
+    array (
+      'tag' => '<input type="text" name="dbprefix" id="dbprefix" size="30" value="aa">',
+      'head' => 'Table Prefix',
+      'exp' => NULL,
+      'handle' => NULL,
+      'optional' => true,
+      'quick_install' => NULL,
+    ),
+  ),
+)
+
+[epiz_25193214] [2020-02-12 08:26:18] [software] Software Info : array (
+  'overview' => '<img src="logo.jpg" style="float:right; margin:10px" alt="" /><font size="5" color="#182e7a">CodeIgniter</font>is a powerful PHP framework with a very small footprint, built for PHP coders who need a simple and elegant toolkit to create full-featured web applications. If you\'re a developer who lives in the real world of shared hosting accounts and clients with deadlines, and if you\'re tired of ponderously large and thoroughly undocumented frameworks
+		<h4>CodeIgniter is right for you if...</h4>
+		<ul>
+			<li>You want a framework with a small footprint.</li>
+			<li>You need exceptional performance.</li>
+
+			<li>You need broad compatibility with standard hosting accounts that run a variety of PHP versions and configurations.</li>
+			<li>You want a framework that requires nearly zero configuration.</li>
+			<li>You want a framework that does not require you to use the command line.</li>
+			<li>You want a framework that does not require you to adhere to restrictive coding rules.</li>
+			<li>You are not interested in large-scale monolithic libraries like PEAR.</li>
+
+			<li>You do not want to be forced to learn a templating language (although a template parser is optionally available if you desire one).</li>
+			<li>You eschew complexity, favoring simple solutions.</li>
+			<li>You need clear, thorough documentation.</li>
+		</ul>
+
+		<br /><br />
+		CodeIgniters license permits redistribution.',
+  'install' => '',
+  'features' => '<p>Features in and of themselves are a very poor way to judge an application since they tell you nothing
+about the user experience, or how intuitively or intelligently it is designed.  Features
+don\'t reveal anything about the quality of the code, or the performance, or the attention to detail, or security practices.
+The only way to really judge an app is to try it and get to know the code. Installing
+CodeIgniter is child\'s play so we encourage you to do just that.  In the mean time here\'s a list of CodeIgniter\'s main features.</p>
+
+<ul>
+<li>Model-View-Controller Based System</li>
+<li>PHP 4 Compatible</li>
+
+<li>Extremely Light Weight</li>
+<li>Full Featured database classes with support for several platforms.</li>
+<li>Active Record Database Support</li>
+<li>Form and Data Validation</li>
+<li>Security and XSS Filtering</li>
+<li>Session Management</li>
+<li>Email Sending Class. Supports Attachments, HTML/Text email, multiple protocols (sendmail, SMTP, and Mail) and more.</li>
+<li>Image Manipulation Library (cropping, resizing, rotating, etc.).  Supports GD, ImageMagick, and NetPBM</li>
+<li>File Uploading Class</li>
+
+<li>FTP Class</li>
+<li>Localization</li>
+<li>Pagination</li>
+<li>Data Encryption</li>
+<li>Benchmarking</li>
+<li>Full Page Caching</li>
+<li>Error Logging</li>
+<li>Application Profiling</li>
+<li>Scaffolding</li>
+
+<li>Calendaring Class</li>
+<li>User Agent Class</li>
+<li>Zip Encoding Class</li>
+<li>Template Engine Class</li>
+<li>Trackback Class</li>
+<li>XML-RPC Library</li>
+<li>Unit Testing Class</li>
+<li>Search-engine Friendly URLs</li>
+<li>Flexible URI Routing</li>
+
+<li>Support for Hooks, Class Extensions, and Plugins</li>
+<li>Large library of "helper" functions</li>
+</ul>',
+  'demo' => 'http://www.softaculous.com/demos/CodeIgniter',
+  'ratings' => 'http://www.softaculous.com/softwares/frameworks/CodeIgniter',
+  'support' => 'http://www.codeigniter.com/',
+  'release_date' => '19-09-2019',
+  'mod' => '35',
+  'mod_files' => '',
+  'import' => true,
+)
+
+[epiz_25193214] [2020-02-12 08:26:18] [software] Finished calling pre install hooks
+
+[epiz_25193214] [2020-02-12 08:26:18] [software] Task Key : DLZiBIOlmMUJhjXf7sGQRI1UJ6jvpNI9
+
+[epiz_25193214] [2020-02-12 08:26:18] [software] http://timetablegenerator.epizy.com Completed DB Details Checks : array (
+  'adminurl' => false,
+  'softdomain' => 'timetablegenerator.epizy.com',
+  'softdirectory' => '',
+  'softpath' => '/home/vol7_2/epizy.com/epiz_25193214/htdocs',
+  'softurl' => 'http://timetablegenerator.epizy.com',
+  'softdb' => 'epiz_25193214_87',
+  'softdbuser' => '25193214_1',
+  'softdbhost' => 'sql203.byetcluster.com',
+  'softdbpass' => 'OS4)p7[QE4',
+)
+
+[epiz_25193214] [2020-02-12 08:26:18] [software] http://timetablegenerator.epizy.com Processed Posted Settings : array (
+  'adminurl' => false,
+  'softdomain' => 'timetablegenerator.epizy.com',
+  'softdirectory' => '',
+  'softpath' => '/home/vol7_2/epizy.com/epiz_25193214/htdocs',
+  'softurl' => 'http://timetablegenerator.epizy.com',
+  'softdb' => 'epiz_25193214_87',
+  'softdbuser' => '25193214_1',
+  'softdbhost' => 'sql203.byetcluster.com',
+  'softdbpass' => 'OS4)p7[QE4',
+  'dbprefix' => 'aa',
+)
+
+[epiz_25193214] [2020-02-12 08:26:18] [software] http://timetablegenerator.epizy.com Finished loading __post_settings
+
+[epiz_25193214] [2020-02-12 08:26:18] [software] http://timetablegenerator.epizy.com Completed Requirement Checks
+
+[epiz_25193214] [2020-02-12 08:26:18] [software] http://timetablegenerator.epizy.com Creating DB : epiz_25193214_87 and DB User : 25193214_1
+
+[epiz_25193214] [2020-02-12 08:26:19] [software] http://timetablegenerator.epizy.com Unzipped Package successfully
+
+[epiz_25193214] [2020-02-12 08:26:19] [software] http://timetablegenerator.epizy.com Calling Software installer
+
+[epiz_25193214] [2020-02-12 08:26:19] [software] http://timetablegenerator.epizy.com Finished Software installer
+
+[epiz_25193214] [2020-02-12 08:26:19] [software] http://timetablegenerator.epizy.com Saving installation details
+
+[epiz_25193214] [2020-02-12 08:26:19] [software] http://timetablegenerator.epizy.com Finished Install
+
+[epiz_25193214] [2020-02-12 08:27:04] [software] Ajax HTTPS Check : https://timetablegenerator.epizy.com | Result : false
+
